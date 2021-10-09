@@ -1,0 +1,43 @@
+
+#containermah{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#container2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+#container3{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.item1{
+    display: flex;
+    background-color: #87CEFA;
+    width: 60px;
+    height: 40px;
+}
+
+
+
+.item2{
+    display: flex;
+    background-color: #00BFFF;
+    width: 60px;
+    height: 40px;
+}
+
+.item3{
+    display: flex;
+    background-color:#c3cdd1; 
+    width: 60px;
+    height: 40px;}
