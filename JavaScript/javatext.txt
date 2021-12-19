@@ -1,0 +1,71 @@
+public class OlaMundo {
+    // método main inicia a execução do aplicativo Java
+    public static void main(String[] args)
+    {
+        System.out.println("Bem vindo ao IOS!");
+    } // fim do método main
+} // fim da classe OlaMundo
+
+
+public class atividade {
+    // Atividade Java
+    public static void main(String[] args)
+    {
+        System.out.println("Marcela Vitória Santos Castro Silva");
+        System.out.println("São Paulo");
+                System.out.println("Ler");
+    }
+    // atividade 2
+    {
+        System.out.println("21");
+        System.out.println("1.62");
+        System.out.println("Offiline:" + (!true));
+    }
+
+    //Atividade 3
+    {
+        System.out.println((("120 - 30) = (3 ˆ 30"));
+    }
+}
+
+ public class aula1 {
+    // Atividade Java
+    public static void main(String[] args) {
+        System.out.println("Marcela Vitória Santos Castro Silva");
+        System.out.println("São Paulo");
+        System.out.println("Ler");
+    }
+}
+
+public class OperArit {
+    // método main inicia a execução do aplicativo
+    public static void main(String[] args)
+    {
+        System.out.println("Precedência: " + (10/2+3));
+        System.out.println("Alterando a Precedência: " + 10/(2+3));
+
+        System.out.println("Divisão inteira: " + 9/2);
+        System.out.println("Divisão real: " + 9/2.0);
+        System.out.println("Divisão real: " + 9.0/2);
+        System.out.println("Divisão real: " + 9.0/2.0);
+
+        System.out.println("Resto da divisão inteira: " + 9%2);
+        System.out.println("Resto da divisão inteira: " + 8%2);
+        System.out.println("Resto da divisão inteira: " + 9%5);
+
+
+
+a.	((120 - 30) = (3 ˆ 30))
+b.	(não ((20 módulo 4)= 1) ou (9 != 9))
+c.	((5 módulo 2 2) > 3)
+d.	(a = A)
+
+
+ System.out.println("Cálculo (120 - 30) = (3 ˆ 30)")
+
+
+
+
+ //{
+            //System.out.println("Cálculo 120 - 30 = (3 ˆ 30));
+          //  System.out.println("Cálculo: + (120 - 30) = (3 ˆ 30)");
